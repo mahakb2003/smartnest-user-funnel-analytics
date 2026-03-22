@@ -161,9 +161,10 @@ PriorityRecommendation
 4. Lowbundle Indoor Cam with premium products — same demand but 4x less revenue
 
 ## 🔭 Future Analysis
-Checkout Abandonment Analysis
+1. Checkout Abandonment Analysis
 Perform deeper analysis on checkout steps, user behavior, and drop-off points to identify friction causes (UX, pricing, trust).
-SMS Channel Scaling Analysis
+
+3. SMS Channel Scaling Analysis
 Analyze user profiles, behavior, and purchase patterns from SMS traffic before scaling the channel while maintaining efficiency.
 
 
