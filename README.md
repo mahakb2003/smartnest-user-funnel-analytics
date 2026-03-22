@@ -51,12 +51,12 @@ The analysis is based on **8 event-level datasets**:
 
 ## 🧹 Data Cleaning — Python
 All 8 tables were cleaned individually in Python. Each table was checked for:
-1.duplicate rows removed based on primary key
-2.invalid UUID format IDs dropped — bad IDs silently break all joins
-3.datetime columns converted from string using format='mixed'
-4.all string columns stripped and lowercased
-5.zero and negative prices and quantities dropped
-6.missing values imputed only where relevant to funnel analysis
+1. duplicate rows removed based on primary key
+2. invalid UUID format IDs dropped — bad IDs silently break all joins
+3. datetime columns converted from string using format='mixed'
+4. all string columns stripped and lowercased
+5. zero and negative prices and quantities dropped
+6. missing values imputed only where relevant to funnel analysis
 
 Created derived columns:
 1.user_segment
@@ -167,27 +167,16 @@ Perform deeper analysis on checkout steps, user behavior, and drop-off points to
 SMS Channel Scaling Analysis
 Analyze user profiles, behavior, and purchase patterns from SMS traffic before scaling the channel while maintaining efficiency.
 
-📂 Project Structure
-smartnest-funnel-analytics/
-│
-├── cleaning/
-│   ├── user_data_cleaning.ipynb
-│   ├── session_cleaning.ipynb
-│   ├── page_view.ipynb
-│   ├── click_table_cleaning.ipynb
-│   ├── scroll_table_cleaning.ipynb
-│   ├── add_to_cart_cleaning.ipynb
-│   ├── order_table_cleaning.ipynb
-│   └── order_line_item.ipynb
-│
-├── joining/
-│   ├── session_master.ipynb
-│   ├── behaviour_master.ipynb
-│   └── order_master.ipynb
-│
-├── analysis/
-│   └── funnel_analysis.ipynb
-│
-└── datasets/
-    ├── cleaned_data/
-    └── master_tables/i need to paste this reame file content  in my vs code . make it according to that i can simple copy paste from here simply . strcutured ,clean ,crisp , professional23:452 / 2SmartNest Funnel Analytics
+
+## 👩‍💻 Author
+
+**Mahak Bisht**  
+📧 Email: mahak.bisht2003@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/mahak-bisht-79241528a  
+💻 GitHub: https://github.com/mahakb2003
+
+---
+
+⭐ If you found this project insightful, feel free to connect or reach out!
+
+
