@@ -23,7 +23,7 @@ Leadership needed clarity on:
 
 ## 📊 Power BI Dashboard
 
-PageDescriptionPage 1 — Business Performance Overview (Dashboard/Performance_Overview.png)
+Page 1 — ![Business Performance Overview](Dashboard/Performance_Overview.png)
 Page 2 — ![Customer Funnel Analysis](Dashboard/funnel_analysis.png)
 Page 3 — ![Marketing Channel Performance](Dashboard/marketing_channel_performance.png)
 Page 4 — ![Customer Behavior & Revenue Performance](Dashboard/Customer_Behaviour_revenue_performance.png)
